@@ -1,9 +1,7 @@
-<br />
-<div align="center">
-  <a href="https://github.com/parvanehyaghoubi/Brain-Tumor-Classification-VGG16/blob/main/Demo/braingif.gif?raw=true">
-    <img src="https://github.com/parvanehyaghoubi/Brain-Tumor-Classification-VGG16/blob/main/Demo/braingif.gif?raw=true" alt="logo" width="300" height="200">
+<p align="center"> <a href="https://github.com/parvanehyaghoubi/Brain-Tumor-Classification-VGG16/blob/main/Demo/braingif.gif?raw=true">
+   <img src="https://github.com/parvanehyaghoubi/Brain-Tumor-Classification-VGG16/blob/main/Demo/braingif.gif?raw=true" alt="logo" width="300" height="200">
   </a>
-
+</p>
 <h1 align="center">Brain Tumor Classification using VGG16</h1>
 <h2>Abstract</h2>
 <p>Brain tumors are among the most aggressive diseases in both children and adults, accounting for 85–90% of primary CNS tumors. Annually, about 11,700 people are diagnosed, with a 5-year survival rate of approximately 34% for men and 36% for women. Brain tumors are classified into types such as benign, malignant, and pituitary tumors. Accurate diagnosis and proper treatment planning are crucial for improving patient outcomes, with MRI being the most effective detection method.
