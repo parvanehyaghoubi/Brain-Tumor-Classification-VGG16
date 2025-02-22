@@ -24,8 +24,10 @@ Pituitary adenomas are tumors that occur in the pituitary gland. Pituitary adeno
 The Brain scan is normal. No Tumor is detected.<br>
   <br>Here is the link of dataset: <a href="https://drive.google.com/drive/folders/1JGf8EX8X5ycXJ6Avd9owa4FalDfdmp3A?usp=sharing" target="_blank">Download Dataset</a></p>
 <h2>Installation</h2>
-<pre><code class="language-python"># Clone the repository
-git clone https://github.com/parvanehyaghoubi/Brain-Tumor-Classification-VGG16</code></pre>
+<ul>
+   <li>Clone the repository:</li>
+</ul>
+<pre><code class="language-python">git clone https://github.com/parvanehyaghoubi/Brain-Tumor-Classification-VGG16</code></pre>
 <h2>Instructions to run Flask Application</h2>
 <ul>
   <li>Run <code class="language-python">Brain-Tumor-Classification-Using-VGG16.ipynb </code> and get the model: <code class="language-python">model.h5</code> </li>
