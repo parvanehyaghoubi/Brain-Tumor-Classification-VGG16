@@ -4,8 +4,8 @@
 </p>
 <h1 align="center">Brain Tumor Classification using VGG16</h1>
 <h2>Abstract</h2>
-<p>Brain tumors are among the most aggressive diseases in both children and adults, accounting for 85–90% of primary CNS tumors. Annually, about 11,700 people are diagnosed, with a 5-year survival rate of approximately 34% for men and 36% for women. Brain tumors are classified into types such as benign, malignant, and pituitary tumors. Accurate diagnosis and proper treatment planning are crucial for improving patient outcomes, with MRI being the most effective detection method.
-<br><p></p>This project utilizes the <b>VGG16</b> deep learning model for automated brain tumor detection using MRI scans.</p>
+<p>A brain tumor is a mass or cluster of abnormal cells in the brain, which has the possibility of becoming life-threatening because of its ability to invade neighboring tissues and also form metastases. Brain tumor classification plays a crucial role in early diagnosis and treatment planning,
+<br><p></p>This project implements an automated brain tumor detection system using deep learning. The model is built on the <b>VGG16</b> architecture, to classify MRI brain scans into tumor and non-tumor categories.</p>
 <h2>Demo Video</h2>
 <p>Here is a video demo of the project: </p>
 <p align="center">
@@ -15,14 +15,14 @@
 <p>The dataset used consists of MRI images categorized into different classes: 
 <br><b>Glioma Tumor, Meningioma Tumor, No Tumor, Pituitary Tumor</b>
 <br><br><b>Glioma Tumor:</b>
-A glioma is a type of tumor that starts in the glial cells of the brain or the spine. Gliomas comprise about 30 percent of all brain tumors and central nervous system tumours, and 80 percent of all malignant brain tumours.
+A glioma is a type of tumor that starts in the glial cells of the brain or the spine. Gliomas comprise about 30 percent of all brain tumors and central nervous system tumors, and 80 percent of all malignant brain tumors.
 <br><b>Malignant Tumor:</b>
 A malignant tumor contrasts with a non-cancerous benign tumor in that a malignancy is not self-limited in its growth, is capable of invading into adjacent tissues, and may be capable of spreading to distant tissues.
 <br><b>Pituary Tumor:</b>
 Pituitary adenomas are tumors that occur in the pituitary gland. Pituitary adenomas are generally divided into three categories dependent upon their biological functioning: benign adenoma, invasive adenoma, and carcinomas.
 <br><b>No Tumor:</b>
 The Brain scan is normal. No Tumor is detected.<br>
-  <br>Here is the link of Dataset: <a href="https://drive.google.com/drive/folders/1JGf8EX8X5ycXJ6Avd9owa4FalDfdmp3A?usp=sharing" target="_blank">Dataset</a></p>
+  <br>Here is the link of dataset: <a href="https://drive.google.com/drive/folders/1JGf8EX8X5ycXJ6Avd9owa4FalDfdmp3A?usp=sharing" target="_blank">Download Dataset</a></p>
 <h2>Installation</h2>
 <pre><code class="language-python"># Clone the repository
 git clone https://github.com/parvanehyaghoubi/Brain-Tumor-Classification-VGG16</code></pre>
@@ -41,6 +41,9 @@ git clone https://github.com/parvanehyaghoubi/Brain-Tumor-Classification-VGG16</
   <li>Keras</li>
   <li>Flask</li>
 </ul>
+<h2>License</h2>
+<p>This project is licensed under the MIT License - see the 
+   <a href="https://github.com/parvanehyaghoubi/Brain-Tumor-Classification-VGG16/blob/main/LICENSE">LICENSE</a> file for details.</p>
 <h2>Contributions</h2>
 <p>This project is open to contributions! Feel free to submit <b>issues</b>, <b>pull requests</b>, or share feedback.</p>
 <h2>Contact</h2>
